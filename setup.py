@@ -6,6 +6,5 @@ setup(
     description='Expore hyperparam space',
     author='Me',
     license='MIT',
-    tests_require=['pytest==4.4.1'],
     test_suite='tests',
 )
